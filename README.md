@@ -1,4 +1,4 @@
-# Welcome to Piranha CMS
+# 欢迎使用 Piranha CMS
 
 Piranha CMS is a lightweight framework for building content driven applications using ASP.NET MVC & Web Pages. The main focus of the framework lies in structuring and managing content, not in providing a pre packaged web interface. 
 
